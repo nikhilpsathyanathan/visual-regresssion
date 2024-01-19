@@ -41,3 +41,4 @@ next-env.d.ts
 .out
 .storybook-out
 storybook-static
+build-storybook.log
